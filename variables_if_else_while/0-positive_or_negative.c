@@ -5,6 +5,8 @@
 /*
  * main - Determines if a number is positive, negative or zero
  *
+ * Description: 'creating a program that assigns a random number to the variable n each time it is executed - prints whether it is positive or negative'
+ *
  * Return: Always 0 (success)
  */
 int main(void)
